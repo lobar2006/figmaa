@@ -1,0 +1,1404 @@
+    .responsive {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .engkattadiv {
+        width: 1440px;
+        height: auto;
+        margin: auto;
+
+    }
+
+    .divaylana1 {
+        width: 84px;
+        height: 84px;
+        background: rgba(184, 232, 209, 1);
+        border-radius: 50%;
+
+    }
+
+    .yozuv5 {
+        width: 150px;
+        height: 84px;
+
+    }
+
+    .llll {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 300;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .hair {
+        font-family: SF Pro Display;
+        font-size: 10px;
+        font-weight: 300;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .shapka {
+        gap: 75px;
+    }
+
+    .rasm1 {
+        width: 16px;
+        height: 16px;
+        margin-top: 15px;
+        gap: 11px;
+
+    }
+
+    .rasm2 {
+        gap: 35px;
+    }
+
+    .rasm3 {
+        width: 24px;
+        height: 24px;
+        top: 16px;
+        left: 1248px;
+        padding: 4.08px 2.25px 4.08px 2.25px;
+        gap: 0px;
+        opacity: 0px;
+
+    }
+
+    .otadiv {
+        justify-content: space-around;
+    }
+
+    .home {
+        font-family: SF Pro Display;
+        font-size: 14px;
+        font-weight: 300;
+
+        letter-spacing: 0.04em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+
+    }
+
+    .prio {
+        font-family: SF Pro Display;
+        font-size: 14px;
+        font-weight: 300;
+
+        letter-spacing: 0.04em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .new {
+        font-family: SF Pro Display;
+        font-size: 8px;
+        font-weight: 700;
+
+        letter-spacing: 0.04em;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: rgba(98, 206, 154, 1);
+
+    }
+
+    .salom {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 300;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .ya {
+        font-family: SF Pro Display;
+        font-size: 72px;
+        font-weight: 400;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .text {
+        align-items: baseline;
+        gap: 10px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .vash {
+        font-family: SF Pro Display;
+        font-size: 48px;
+        font-weight: 300;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .text1 {
+        font-family: SF Pro Display;
+        font-size: 48px;
+        font-weight: 300;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .aa {
+        margin: 0;
+        padding: 0;
+    }
+
+    .text2 {
+        font-family: SF Pro Display;
+        font-size: 22px;
+       
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        padding: 0;
+        margin: 0;
+        color: rgba(51, 51, 51, 1);
+
+    }
+
+    .yozuv {
+        margin-top: 19px;
+    }
+
+    .boton {
+        width: 188px;
+        height: 52px;
+        top: 589px;
+        left: 100px;
+        gap: 0px;
+        border-radius: 10px;
+        opacity: 0px;
+        background: rgba(184, 232, 209, 1);
+        box-shadow: 0px 10px 16px 0px rgba(192, 220, 207, 0.25);
+        border: none;
+
+
+    }
+
+    .gap {
+        gap: 12px;
+    }
+
+    .kod {
+        font-family: SF Pro Display;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 22.29px;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: rgb(105, 128, 118);
+
+    }
+
+    .rasmuchun {
+        background-image: url(./images/Rectangle\ 2.png);
+        width: 720px;
+        height: 776px;
+        top: 124px;
+        left: 720px;
+        gap: 0px;
+        border-radius: 354px 0px 0px 0px;
+        opacity: 0px;
+    }
+
+    .barg {
+        background-image: url(./images/barg.png);
+        width: 590px;
+        height: 711.77px;
+        top: 186px;
+        left: 1163.72px;
+        margin-left: 90px;
+        margin-top: 33px;
+
+    }
+
+    .usha {
+        justify-content: space-around;
+
+    }
+
+    .img1 {
+        margin-left: -190px;
+
+    }
+
+    .youzv11 {
+        width: 600px;
+        height: 383px;
+        top: 258px;
+        left: 100px;
+        gap: 0px;
+        border-radius: 10px 0px 0px 0px;
+        opacity: 0px;
+
+        margin: auto;
+
+    }
+
+    .img2 {
+        background-image: url(./images/Group\ 65\ 1.png);
+        width: 780px;
+        height: 900px;
+
+    }
+
+    .janat {
+        margin: 0;
+        padding: 0;
+        font-family: SF Pro Display;
+        font-size: 62px;
+        font-weight: 800;
+
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .yozuv1 {
+        font-family: SF Pro Display;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .malumot {
+        width: 579px;
+        height: 572px;
+        top: 164px;
+        left: 100px;
+        gap: 0px;
+        opacity: 0px;
+
+        margin: auto;
+        margin-top: 12px;
+        padding-top: 90px;
+
+    }
+
+    .klass {
+        justify-content: space-between;
+    }
+
+    .ism {
+        font-family: SF Pro Display;
+        font-size: 36px;
+        font-weight: 400;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+
+    }
+
+    .div1 {
+        width: 150px;
+        height: 74px;
+        border-radius: 20px 0px 0px 20px;
+        box-shadow: -11px 0px 20px 0px rgba(0, 0, 0, 0.08);
+        background: rgba(255, 255, 255, 1);
+
+
+        margin: 0;
+        padding: 0;
+
+
+    }
+
+    .tittle {
+        font-family: SF Pro Display;
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 13.13px;
+        text-align: right;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: rgba(189, 189, 189, 1);
+
+    }
+
+    .rasm4 {
+        background-image: url(./images/image\ 2.png);
+        width: 654px;
+        height: 810px;
+
+
+        margin-top: 40px;
+        display: flex;
+        justify-content: end;
+
+
+
+    }
+
+    .boton1{
+        width: 188px;
+        height: 52px;
+        top: 7455px;
+        left: 626px;
+        gap: 0px;
+        border-radius: 10px ;
+        border: 1px ;
+        opacity: 0px;
+        border: 1px solid;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+    .boton1 p{
+        text-align: center;
+    }
+    .on{
+        color: rgba(51, 51, 51, 1);
+        font-weight: bolder;
+    }
+
+    .aaaa {
+        align-items: center;
+        height: 450px;
+        display: flex;
+        flex-wrap: wrap;
+        width: 235px;
+        text-align: right;
+        padding: 0px;
+        justify-content: end;
+
+    }
+
+    .aaa1 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: end;
+
+    }
+
+    .div12 {
+        margin: 0px;
+        padding: 0px;
+        width: 230px;
+        height: 70px;
+        border-radius: 20px 0px 0px 20px;
+        box-shadow: -11px 0px 20px 0px rgba(0, 0, 0, 0.08);
+        background: rgba(255, 255, 255, 1);
+
+    }
+
+    .tittle1 {
+        font-family: SF Pro Display;
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 13.13px;
+        text-align: right;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: rgba(98, 206, 154, 1);
+        align-items: center;
+
+    }
+
+    .ota {
+        height: 500px;
+    }
+
+    .aylana {
+        width: 129px;
+        height: 129px;
+        background: rgba(184, 232, 209, 1);
+        border-radius: 150px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .proo {
+        font-family: SF Pro Display;
+        font-size: 30px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        margin: 0;
+        padding: 0;
+
+    }
+
+    .yozuv2 {
+        font-family: SF Pro Display;
+        font-size: 72px;
+        margin: 0;
+        padding: 0;
+        text-align: right;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        margin-left: 10px;
+
+    }
+
+    .kli {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        margin: 0;
+        padding: 0;
+        margin-left: 45px;
+    }
+
+    .tittle2 {
+        margin-left: -125px;
+    }
+
+    .contnet2 {
+
+        width: 1000px;
+        height: 974px;
+    }
+
+    .content3 {
+
+        width: 402.77px;
+        height: 448.13px;
+    }
+
+    .class1 {
+        width: 1440px;
+        height: 900px;
+        background: rgba(248, 248, 248, 1);
+
+        margin: 0 auto;
+        background-repeat: no-repeat;
+        margin: 0 auto;
+    }
+
+    .class2 {
+        width: 1440px;
+        height: 900px;
+        background-image: url("./images/rasm1.png");
+        margin: 0 auto;
+        background-repeat: no-repeat;
+        justify-content: end;
+
+
+    }
+
+    .class3 {
+        width: 390px;
+        height: 550px;
+        top: 2139px;
+        left: 100px;
+        gap: 0px;
+        border-radius: 20px;
+        opacity: 0px;
+        background: rgba(255, 255, 255, 1);
+
+
+    }
+
+    .class4 {
+        width: 395px;
+        height: 250px;
+        border-radius: 20px;
+        background: rgba(255, 255, 255, 1);
+        margin-top: 12px;
+    }
+
+    .aa {
+        gap: 30px;
+        width: 1230px;
+        margin: 40px auto;
+    }
+
+    .pteegg {
+        width: 265px;
+        font-family: SF Pro Display;
+        font-size: 14px;
+
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .bb {
+        width: 92px;
+        height: 250px;
+        top: 2139px;
+        left: 525px;
+        gap: 0px;
+        border-radius: 20px 0px 0px 20px;
+        opacity: 0px;
+
+    }
+
+    .qqq {
+        margin: 0px 20px 0px 20px;
+    }
+
+    .aaaaa {
+        margin: 0 0 0 20px;
+    }
+
+    .class5 {
+        width: 390px;
+        height: 250px;
+        border-radius: 20px;
+        background: rgba(255, 255, 255, 1);
+        gap: 20px;
+        margin-top: 25px;
+        justify-content: space-between;
+        display: flex;
+
+    }
+
+    .yozuvv {
+        width: 288px;
+        margin: 0 0 0 20px;
+
+    }
+
+    .ddd {
+        width: 94px;
+        height: 250px;
+        border-radius: 0px 20px 20px 0px;
+
+    }
+
+    .class6 {
+        width: 350px;
+        height: 322px;
+        top: 2139px;
+        left: 950px;
+        gap: 0px;
+        border-radius: 20px;
+        opacity: 0px;
+        background: rgba(255, 255, 255, 1);
+
+    }
+
+    .rasm5 {
+        width: 350px;
+        height: 166px;
+        border-radius: 20px 20px 0px 0px;
+
+
+    }
+
+    .rasm6 {
+
+        width: 102px;
+        height: 184px;
+        border-radius: 20px 0px 0px 20px;
+
+
+
+    }
+
+    .class7 {
+        margin-top: 25px;
+        width: 390px;
+        height: 184px;
+        top: 2566px;
+        left: 950px;
+        gap: 0px;
+        border-radius: 20px;
+        opacity: 0px;
+        background: rgba(255, 255, 255, 1);
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    .yozuv3 {
+        width: 288px;
+        margin: 0 0 0 10px;
+        font-size: 15px;
+    }
+
+    .divaylana {
+        background: rgba(184, 232, 209, 1);
+        width: 189px;
+        height: 189px;
+
+        border-radius: 50%;
+
+    }
+
+    .yozuv4 {
+        width: 535px;
+        height: 189px;
+
+
+
+    }
+
+    .tiitle {
+
+        font-family: SF Pro Display;
+        font-size: 36px;
+        font-weight: 400;
+        margin: 0;
+        padding: 0;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        width: 319px;
+        height: 34px;
+
+
+
+    }
+
+    .tiitle1 {
+        text-align: end;
+        font-family: SF Pro Display;
+        font-size: 82px;
+        font-weight: 800;
+        margin: 0;
+        padding: 0;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        width: 476px;
+
+
+
+    }
+
+    .tiitle2 {
+        margin: 10px auto;
+        width: 215px;
+        height: 23px;
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 700;
+
+        padding: 0;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .posle {
+        font-family: SF Pro Display;
+        font-size: 72px;
+        font-weight: 800;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    }
+
+    .doo {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 700;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .pak {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 500;
+
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .gggg {
+        font-family: SF Pro Display;
+        font-size: 14px;
+        font-weight: 400;
+
+        text-align: right;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .bag {
+        background-image: url(./images/Rectangle\ 22.png);
+        width: 1608px;
+        height: 750px;
+        background-repeat: no-repeat;
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .img3 {
+        width: 654px;
+        height: 302px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+    }
+
+    .top {
+        margin-top: 75px;
+
+    }
+
+    .jana {
+        text-align: right;
+    }
+
+    .vvv {
+        justify-content: space-between;
+        gap: 25px;
+        margin-top: 10px;
+    }
+
+    .gggg1 {
+        font-family: SF Pro Display;
+        font-size: 14px;
+        font-weight: 400;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .vedio {
+        font-family: SF Pro Display;
+        font-size: 72px;
+        font-weight: 800;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .tolka {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 700;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .yuldux {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 22.52px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .yulduz {
+        font-family: SF Pro Display;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .activ {
+        background: rgba(255, 255, 255, 1);
+        box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.1);
+        width: 600px;
+        border-radius: 0px 20px 20px 0px;
+    }
+
+    .texee {
+        width: 944px;
+        text-align: center;
+    }
+
+    .texee1 {
+        width: 580px;
+        text-align: center;
+    }
+
+    .dddd {
+        margin: 0px 40px 0px 40px;
+        margin-top: 35px;
+    }
+
+    .gap1 {
+        margin-left: 20px;
+        margin-top: 70px;
+    }
+
+    .gap2 {
+        margin-left: 20px;
+    }
+
+    .patent {
+        font-family: SF Pro Display;
+        font-size: 72px;
+        font-weight: 800;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .patent1 {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 700;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .div11 {
+        width: 240px;
+        height: 6px;
+        top: 5123px;
+        left: 159px;
+        gap: 0px;
+        border-radius: 11px;
+        opacity: 0px;
+        background: linear-gradient(90deg, #B8E8D1 0%, #62CE9A 100%);
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+
+    .div122 {
+        width: 1000px;
+        height: 6px;
+
+        border-radius: 11px;
+        background: rgba(242, 242, 242, 1);
+        margin-top: 15px;
+
+    }
+
+    .faq {
+        font-family: SF Pro Display;
+        font-size: 72px;
+        font-weight: 800;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .ili {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 700;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+    }
+
+    .div13 {
+        width: 300px;
+        height: 2px;
+        background: rgb(184, 179, 179);
+        border-radius: 1px;
+        margin-left: 95px;
+    }
+
+    .content2 {
+        width: 562px;
+        height: 211px;
+        gap: 25px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        margin-top: 35px;
+
+    }
+
+    .content4 {
+        width: 32px;
+        height: 32px;
+        gap: 0px;
+        border: 1px;
+
+
+    }
+
+
+    .yozuvv1 {
+        font-family: SF Pro Display;
+        font-size: 20px;
+        font-weight: 500;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: rgb(37, 35, 35);
+
+    }
+
+    .yozuvv2 {
+        font-family: SF Pro Display;
+        font-size: 14px;
+        font-weight: 400;
+        margin: 0;
+        padding: 0;
+        text-align: justified;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        margin-left: 55px;
+    }
+
+    .aaaaaa {
+        gap: 20px;
+    }
+
+    .a1 {
+        margin-top: 20px;
+    }
+
+    .a2 {
+        margin-top: 15px;
+    }
+
+    .div131 {
+        width: 350px;
+        height: 2px;
+        background: rgb(184, 179, 179);
+        border-radius: 1px;
+        margin-left: 55px;
+        margin-top: 15px;
+    }
+
+    .aaaaaaa {
+        margin: 0 auto;
+        gap: 145px;
+    }
+
+    .aa2 {
+        font-family: SF Pro Display;
+        font-size: 72px;
+        font-weight: 800;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .aaa2 {
+        gap: 5px;
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 700;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+    }
+
+    .iii {
+        color: rgba(189, 189, 189, 1);
+
+    }
+
+    .yashil {
+        color: #62CE9A;
+    }
+
+    .lorem {
+        width: 379px;
+        height: 219px;
+        top: 6455px;
+        left: 100px;
+        gap: 0px;
+        border: 1px;
+        opacity: 0px;
+
+    }
+
+    .bag1 {
+        background-image: url(./images/Rectangle\ 22.png);
+        width: 1608px;
+        height: 750px;
+        background-repeat: no-repeat;
+
+
+    }
+    .lll1{
+        margin-top: 60px;
+    }
+
+    .content5 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .ggg2 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .aaa3 {
+        justify-content: center;
+        gap: 45px;
+    }
+
+    .stat {
+        width: 188px;
+        height: 52px;
+        top: 6724px;
+        left: 626px;
+        gap: 0px;
+        border-radius: 10px;
+        opacity: 0px;
+        background: rgba(184, 232, 209, 1);
+        box-shadow: 0px 10px 16px 0px rgba(192, 220, 207, 0.25);
+        border: none;
+
+        text-align: center;
+    }
+
+    .gggg3 {
+        margin: 0 auto;
+        width: 188px;
+        height: 52px;
+    }
+
+    .sledim {
+        font-family: SF Pro Display;
+        font-size: 72px;
+        font-weight: 800;
+        margin: 0;
+        padding: 0;
+
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        width: 1000px;
+        text-align: center;
+
+    }
+
+    .sovet {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 700;
+        margin: 0;
+        padding: 0;
+
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        width: 620px;
+        text-align: center;
+
+    }
+
+    .img4 {
+        background-image: url(./images/Слой\ 1\ 4.png);
+        width: 1442px;
+        height: 674px;
+        margin: 50px;
+        background-repeat: no-repeat;
+        gap: 20px;
+
+    }
+
+    .content7 {
+        background: rgba(255, 255, 255, 1);
+        width: 274px;
+        height: 367px;
+        border-radius: 10px;
+
+    }
+
+    .yozuvw {
+        width: 234px;
+        height: 90px;
+        top: 7255px;
+        left: 120px;
+        gap: 0px;
+        opacity: 0px;
+        margin: 0 auto;
+
+    }
+
+    .contenmt {
+        width: 1400px;
+
+    }
+
+    .gaii {
+        gap: 35px;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+
+    .para {
+        background: rgba(184, 232, 209, 1);
+        width: 1440px;
+        height: 200px;
+    }
+
+    .para1 {
+        font-family: SF Pro Display;
+        font-size: 72px;
+        font-weight: 800;
+        text-align: center;
+        width: 803px;
+        margin: 0;
+        padding-top: 50px;
+    }
+
+    .para3 {
+        font-family: SF Pro Display;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 22.52px;
+        text-align: center;
+        width: 730px;
+        margin: 0;
+    }
+
+    .para2 {
+        background-image: url(./images/Group\ 65\ 1\ \(1\).png);
+        width: 788px;
+        height: 581px;
+
+
+    }
+    .content8{
+        width: 1240px;
+        height: 500px;
+       display: flex;
+        border-radius: 0px 0px 20px 20px;
+        background: rgba(255, 255, 255, 1);
+        box-shadow: 0px 15px 40px 0px rgba(0, 0, 0, 0.1);
+        justify-content: center;
+
+    }
+.content9{
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+}
+
+    .content10{
+        width: 390px;
+        height: 48px;
+        font-family: SF Pro Display;
+        font-size: 51px;
+        font-weight: 800;
+       
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: rgba(189, 189, 189, 1);
+        justify-content: center;
+        margin-left: 50px;
+      
+    }
+    .aa1{
+        align-items: center;
+        justify-content: space-around;
+        width: 390px;
+      gap: 15px;
+        margin-top: 10px;
+        border-radius: 1px ;
+        opacity: 0px;
+       
+    }   
+    .div2{
+        background: rgba(242, 242, 242, 1);
+        width: 290px;
+        height: 2px;
+
+        border-radius: 1px 0px 0px 0px;
+        opacity: 0px;
+        
+    }
+    .bb3{
+        width: 180px;
+        height: 2px;
+        font-family: SF Pro Display;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 16.89px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: rgba(189, 189, 189, 1);
+
+    }
+    .bb13{
+        width: 270px;
+        height: 2px;
+        font-family: SF Pro Display;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 16.89px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: rgba(189, 189, 189, 1);
+    }
+    .www{
+       
+        width: 490px;
+        align-items: center;
+      
+    }
+    .qqq{
+        width: 188px;
+        height: 52px;
+        border-radius: 10px ;
+        opacity: 0px;
+        box-shadow: 0px 10px 16px 0px rgba(192, 220, 207, 0.25);
+        background: rgba(255, 255, 255, 1);
+        font-family: SF Pro Display;
+        font-size: 16px;
+        font-weight: 500;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+       text-align: center;
+       margin-top: 20px; 
+        
+    }
+    .soz{
+        font-family: SF Pro Display;
+        font-size: 12px;
+        font-weight: 300;
+        text-align: left;       
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: rgba(39, 174, 96, 1);
+        width: 200px;
+
+    }
+    .fff{
+        width: 570px;
+       
+        height: 500px
+    }
+    .opshi{
+        width: 1440px;
+        height: 423px;
+    justify-content: space-around;
+        background: rgba(51, 51, 51, 1);
+        align-items: center;
+
+    }
+    .how{
+    font-family: SF Pro Display;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 22.52px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}    
+.qq1{
+    align-items: center;
+}
+.davlat{
+    color: white;
+}
+.tel{
+    align-items: center; 
+    gap: 20px;  
+}
+.aa23{
+gap: 130px;
+}
+.site{
+    font-family: SF Pro Display;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 22.52px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+
+}
+.hom{
+    font-family: SF Pro Display;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: justified;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(242, 242, 242, 1);
+
+
+}
+.baqq{
+    margin-top: 50px;
+}
+.about{
+    font-family: SF Pro Display;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: justified;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgb(88, 88, 88);
+
+}
